@@ -2,26 +2,10 @@
 
 ![epsten Bot Banner](https://i.postimg.cc/6TJCHnXj/Gemini-Generated-Image-xi6ngwxi6ngwxi6n-(1).jpg)
 
-Bem-vindo ao repositório oficial do **nazuna Bot**! Este projeto é um bot avançado e multifuncional para WhatsApp, desenvolvido com a robustez do **Node.js** e a flexibilidade da biblioteca **WaLib**. Criado para otimizar sua comunicação e gestão de grupos, o nazuna Bot oferece uma vasta gama de comandos, desde funcionalidades administrativas essenciais até opções de entretenimento interativas. É a solução perfeita tanto para desenvolvedores iniciantes que buscam uma ferramenta fácil de usar quanto para usuários avançados que desejam uma plataforma altamente personalizável.
-
-> ⚠️ **Aviso Importante**: O nazuna Bot é um projeto de código aberto, desenvolvido com paixão e dedicação. No entanto, ele é **protegido por direitos autorais**. Isso significa que, embora você tenha total liberdade para editar e distribuir o bot para uso pessoal ou em sua comunidade, a **venda** do nazuna Bot ou de suas versões modificadas é estritamente proibida, pois o projeto é oferecido gratuitamente. Além disso, a remoção total dos créditos do autor é vedada. Violações destas condições podem resultar em ações legais.
+Bem-vindo ao repositório oficial do **Epsten Bot**! Este projeto é um bot avançado e multifuncional para WhatsApp, desenvolvido com a robustez do **Node.js** e a flexibilidade da biblioteca **WaLib**. Criado para otimizar sua comunicação e gestão de grupos, o Epsten Bot oferece uma vasta gama de comandos, desde funcionalidades administrativas essenciais até opções de entretenimento interativas. É a solução perfeita tanto para desenvolvedores iniciantes que buscam uma ferramenta fácil de usar quanto para usuários avançados que desejam uma plataforma altamente personalizável.
 
 ---
 
-## ✨ Por que o nazuna Bot se Destaca?
-
-<details>
-<summary><strong>🔍 Clique para ver as principais características</strong></summary>
-
-O nazuna Bot foi projetado para ser mais do que um simples assistente; ele é um parceiro digital que simplifica suas interações no WhatsApp. Veja o que o torna tão especial:
-
-- **Configuração Simplificada e Intuitiva**: Conecte-se ao WhatsApp em questão de minutos, utilizando um prático QR code ou um código de pareamento, eliminando complexidades iniciais.
-- **Funcionalidade Abrangente e Versátil**: Gerencie grupos com eficiência, utilize ferramentas utilitárias para diversas tarefas e divirta-se com uma biblioteca crescente de comandos de entretenimento, tudo em um só lugar.
-- **Compatibilidade Multiplataforma Inigualável**: Rode o nazuna Bot em praticamente qualquer ambiente: Windows, Linux, macOS, dispositivos Android (através do Termux) e até mesmo em servidores dedicados como Pterodactyl, garantindo flexibilidade total.
-- **Atualizações Constantes e Melhorias Contínuas**: Nossa equipe está sempre trabalhando para trazer novas funcionalidades, otimizações de desempenho e correções de bugs, garantindo que seu bot esteja sempre na vanguarda.
-- **Segurança Reforçada e Estabilidade Comprovada**: Desenvolvido com base no modo multi-dispositivos do WhatsApp, o nazuna Bot oferece uma operação fluida, segura e confiável, minimizando interrupções e protegendo seus dados.
-
-> 💡 **Explore o Potencial**: Após a configuração inicial, basta digitar `/menu` no WhatsApp para desvendar um universo de comandos e funcionalidades que o nazuna Bot oferece!
 </details>
 
 ---
