@@ -1,6 +1,6 @@
-# 🤖 nazuna Bot: Seu Assistente Completo para WhatsApp
+# 🤖 Epsten Bot: Seu Assistente Completo para WhatsApp
 
-![nazuna Bot Banner](https://raw.githubusercontent.com/hiudyy/nazuna/main/dados/midias/menu.jpg)
+![epsten Bot Banner]([https://raw.githubusercontent.com/hiudyy/nazuna/main/dados/midias/menu.jpg](https://image2url.com/r2/default/images/1773619680990-995f5b2e-129f-45ec-bcba-6cfa3a9d2b52.png))
 
 Bem-vindo ao repositório oficial do **nazuna Bot**! Este projeto é um bot avançado e multifuncional para WhatsApp, desenvolvido com a robustez do **Node.js** e a flexibilidade da biblioteca **WaLib**. Criado para otimizar sua comunicação e gestão de grupos, o nazuna Bot oferece uma vasta gama de comandos, desde funcionalidades administrativas essenciais até opções de entretenimento interativas. É a solução perfeita tanto para desenvolvedores iniciantes que buscam uma ferramenta fácil de usar quanto para usuários avançados que desejam uma plataforma altamente personalizável.
 
